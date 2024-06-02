@@ -1,6 +1,4 @@
-# Project README
-
-## Project Overview
+# Project Summary
 
 This project involves the design and implementation of a web extension for enhanced security during online payments. The extension features a unique user interaction model combined with a secondary verification system based on real-time facial recognition.
 
